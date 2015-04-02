@@ -1,4 +1,9 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 When you initialize a repository, a .git directory is created with the necessary files for a repository.
-You need to do this because you need a location to save meta data when commiting. This location is within the .git directory. Also this will have the systems recognize the folder as a repository rather than a directory.
+You need to do this because you need a location to save meta data when committing. This location is within the .git directory. Also this will have the systems recognize the folder as a repository rather than a directory.
+
+How is thee staging area different from the working directory and the respository? What value do you think it offers?
+
+The staging area is merly a loaction of all the files that can potentially be committed, where as a respository stores the history of commits done on files.
+I believe that is provides a opportunity to decide what files to incorpoarte into a specific commit.
