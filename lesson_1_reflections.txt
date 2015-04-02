@@ -1,0 +1,34 @@
+The diff command allowed me to see the error and
+typo fairly quickly. It organized the changes and
+provided an easy viewing experience of all file
+updates.
+
+Being able to have access to the entire histoy of
+a file can provide working versions of those files
+which allow for developing on such files less worry
+some since you can always revert back to a working
+version.
+Also you can be able to view the current developments
+of a file as they are occuring.
+
+Being able to manually commit in git hub allows for
+full control of deciding the paticular aspects of
+changes you would like to commit. Rather than having
+a automated system which may commit too often or not
+as frequent.
+
+Being able to save multiple files at once in one commit
+allows for saving changes that affect files that are
+co-dependent of one another. Having git provide such
+feature removes the work that is required to perform
+such task as checking each individual file.
+
+You can use the git log to view the history of any
+changes that were done to the files. Once you are viewing
+the changes you are able to use the git diff to compare
+that various commits to view the changes between commits.
+
+Being able to revert back to a pervious version allow one
+to do make any changes desired regardless if the changes
+may break the program.
+
