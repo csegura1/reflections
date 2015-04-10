@@ -15,3 +15,7 @@ You can compare the changes being done to the files in the staging area to the f
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 Branches would be helpful when you want to experiment on different versions of a working project but do not fully want to incorperate it the working project until it works fully. Branches would allow for such changes without affecting the working main project.
+
+How do the diagrams help you visualize the branch structure?
+
+They can show you the parent to any commit made and demonstrate the entire path leading to the connecting commit of all other branches. They can also show you any inaccessible commits made.
