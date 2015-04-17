@@ -19,3 +19,7 @@ Branches would be helpful when you want to experiment on different versions of a
 How do the diagrams help you visualize the branch structure?
 
 They can show you the parent to any commit made and demonstrate the entire path leading to the connecting commit of all other branches. They can also show you any inaccessible commits made.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result of merging is ability to connect worked out features to the main branch where a working project is stored. The demanstration, I believe, is stored in that way so that an individual could visualize the connected network between branches.
