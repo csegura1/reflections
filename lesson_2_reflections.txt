@@ -23,3 +23,7 @@ They can show you the parent to any commit made and demonstrate the entire path 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The result of merging is ability to connect worked out features to the main branch where a working project is stored. The demanstration, I believe, is stored in that way so that an individual could visualize the connected network between branches.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+Pros are that Git will successfully merge different branches when there is no conflicts between file changes. Cons are that you may run into problems when files do have conflict but can easying be dealt with if you are aware of the intensions done to a file.
