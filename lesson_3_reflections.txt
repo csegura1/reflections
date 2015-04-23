@@ -11,3 +11,7 @@ If multiple people are adding or removing content from a project, than you would
 one's changes be updating to your own local version of the project. If done maually, you are able
 to filter there the content you want to go ahead and pull from the remote to then be added to your
 local version.
+
+Describe the difference between forks, clone, and branches. When would you use one instead of another?
+
+Forks are clones made in github, clones are copies of respositories in the local machine, and branches are adding features to existing respositories.
