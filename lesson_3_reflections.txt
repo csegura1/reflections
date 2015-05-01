@@ -26,3 +26,10 @@ What would be easier and what would be harder?
 You would have to exchange files or respositories to be able to collaborate the way
 you would on GitHub or Git. Adding features to a program would require much more
 oversight before adding it to the working version of the program.
+
+When would you want to make changes in a separate branch rather than directly in master?
+What benefits does each approach have?
+
+You would want to make changes on a seperate branch when you want your work to be
+viewed by someone else before making it apart of the program. This way you can get
+feedback on the potiental added feature before hand.
